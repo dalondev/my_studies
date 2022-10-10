@@ -1,41 +1,7 @@
-# my_studies
+# My studies at [dio.me](https://web.dio.me/)
 Since January 2022 I have taken several courses which are documented in this repository. Courses such as: Javascript and Functional Javascript (through Udemy), HTML5 and CSS (through Dio.me) and bootcamps made
 
 # Cursos da https://web.dio.me/users/dalonalmeida?tab=achievements
-
-- BOOTSTRAP
-  - [Construindo páginas para internet com Bootstrap.pdf](https://github.com/dalondev/my_studies/files/9749573/Construindo.paginas.para.internet.com.Bootstrap.pdf)
-- Git e GitHub
-  - [Como Entregar seu Desafio de Projeto.pdf](https://github.com/dalondev/my_studies/files/9749575/Como.Entregar.seu.Desafio.de.Projeto.pdf)
-  - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pdf](https://github.com/dalondev/my_studies/files/9749576/Criando.seu.Primeiro.Repositorio.no.GitHub.Para.Compartilhar.Seu.Progresso.pdf)
-  - [Introdução ao Git e ao GitHub.pdf](https://github.com/dalondev/my_studies/files/9749577/Introducao.ao.Git.e.ao.GitHub.pdf)
-
-- HTML5 e CSS3
-  - [Introdução a Criação de Websites com HTML5 e CSS3.pdf](https://github.com/dalondev/my_studies/files/9749578/Introducao.a.Criacao.de.Websites.com.HTML5.e.CSS3.pdf)
-  - [Introdução ao HTML na Prática.pdf](https://github.com/dalondev/my_studies/files/9749579/Introducao.ao.HTML.na.Pratica.pdf)
-  - [Entendendo Comunicação Client x Server.pdf](https://github.com/dalondev/my_studies/files/9749595/Entendendo.Comunicacao.Client.x.Server.pdf)
-  - [Módulo I - Princípios de Desenvolvimento de Software.pdf](https://github.com/dalondev/my_studies/files/9749580/Modulo.I.-.Principios.de.Desenvolvimento.de.Software.pdf)
-  - [Primeiros passos para desenvolvimento web.pdf](https://github.com/dalondev/my_studies/files/9749598/Primeiros.passos.para.desenvolvimento.web.pdf)
-  - [Módulo II - Fundamentos Web com HTML e CSS.pdf](https://github.com/dalondev/my_studies/files/9749581/Modulo.II.-.Fundamentos.Web.com.HTML.e.CSS.pdf)
-  - [Posicionando elementos com Flexbox em CSS.pdf](https://github.com/dalondev/my_studies/files/9749582/Posicionando.elementos.com.Flexbox.em.CSS.pdf)
-  - [Recriando a Página Inicial do Instagram.pdf](https://github.com/dalondev/my_studies/files/9749583/Recriando.a.Pagina.Inicial.do.Instagram.pdf)
- - JavaScript 
-  - [Dominando Funções em JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749584/Dominando.Funcoes.em.JavaScript.pdf)
-  - [Introdução ao JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749585/Introducao.ao.JavaScript.pdf)
-  - [JavaScript ES6 essencial.pdf](https://github.com/dalondev/my_studies/files/9749586/JavaScript.ES6.essencial.pdf)
-  - [Manipulando a D.O.M. com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749587/Manipulando.a.D.O.M.com.JavaScript.pdf)
-  - [Map, Filter e Reduce.pdf](https://github.com/dalondev/my_studies/files/9749588/Map.Filter.e.Reduce.pdf)
-  - [Mapas e Conjuntos com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749589/Mapas.e.Conjuntos.com.JavaScript.pdf)
-  - [Orientação a Objetos com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749590/Orientacao.a.Objetos.com.JavaScript.pdf)
-  - [Primeiros passos para começar a programar.pdf](https://github.com/dalondev/my_studies/files/9749591/Primeiros.passos.para.comecar.a.programar.pdf)
-  - [Sintaxe e Operadores JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749592/Sintaxe.e.Operadores.JavaScript.pdf)
- - Lógica
-  - [Aprenda o que são Estrutura de Dados e Algoritmos.pdf](https://github.com/dalondev/my_studies/files/9749594/Aprenda.o.que.sao.Estrutura.de.Dados.e.Algoritmos.pdf)
-  - [Lógica de Programação Essencial.pdf](https://github.com/dalondev/my_studies/files/9749596/Logica.de.Programacao.Essencial.pdf)
-  - [Pensamento Computacional.pdf](https://github.com/dalondev/my_studies/files/9749597/Pensamento.Computacional.pdf)
-
-
-
 
 ![Entendendo Comunicação Cliente x Server](https://user-images.githubusercontent.com/115429868/194911938-c632a79b-ac59-48e2-bd85-cf949571b729.png)
 ![Dominando Funções em JavaScript](https://user-images.githubusercontent.com/115429868/194911939-08e4a9fe-a48d-4abe-95ac-8cc9bc699072.png)
@@ -59,3 +25,33 @@ Since January 2022 I have taken several courses which are documented in this rep
 ![Primeiros passos para desenvolvimento web](https://user-images.githubusercontent.com/115429868/194959591-cdb3b0ec-2c2b-41d0-b7e1-ae9e8ca2ca0a.png)
 ![Sintaxe e Operadores JavaScript](https://user-images.githubusercontent.com/115429868/194959789-1dd70f73-ae9a-4fe0-b3e2-890f0fba4e3b.png)
 ![Posicionando elementos com Flexbox em CSS (2)](https://user-images.githubusercontent.com/115429868/194960254-9e0be139-fbe9-441e-b96a-025332e70ad5.png)
+
+- Git e GitHub
+  - [Como Entregar seu Desafio de Projeto.pdf](https://github.com/dalondev/my_studies/files/9749575/Como.Entregar.seu.Desafio.de.Projeto.pdf)
+  - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso.pdf](https://github.com/dalondev/my_studies/files/9749576/Criando.seu.Primeiro.Repositorio.no.GitHub.Para.Compartilhar.Seu.Progresso.pdf)
+  - [Introdução ao Git e ao GitHub.pdf](https://github.com/dalondev/my_studies/files/9749577/Introducao.ao.Git.e.ao.GitHub.pdf)
+- HTML5 e CSS3
+  - [Introdução a Criação de Websites com HTML5 e CSS3.pdf](https://github.com/dalondev/my_studies/files/9749578/Introducao.a.Criacao.de.Websites.com.HTML5.e.CSS3.pdf)
+  - [Introdução ao HTML na Prática.pdf](https://github.com/dalondev/my_studies/files/9749579/Introducao.ao.HTML.na.Pratica.pdf)
+  - [Entendendo Comunicação Client x Server.pdf](https://github.com/dalondev/my_studies/files/9749595/Entendendo.Comunicacao.Client.x.Server.pdf)
+  - [Módulo I - Princípios de Desenvolvimento de Software.pdf](https://github.com/dalondev/my_studies/files/9749580/Modulo.I.-.Principios.de.Desenvolvimento.de.Software.pdf)
+  - [Primeiros passos para desenvolvimento web.pdf](https://github.com/dalondev/my_studies/files/9749598/Primeiros.passos.para.desenvolvimento.web.pdf)
+  - [Módulo II - Fundamentos Web com HTML e CSS.pdf](https://github.com/dalondev/my_studies/files/9749581/Modulo.II.-.Fundamentos.Web.com.HTML.e.CSS.pdf)
+  - [Posicionando elementos com Flexbox em CSS.pdf](https://github.com/dalondev/my_studies/files/9749582/Posicionando.elementos.com.Flexbox.em.CSS.pdf)
+  - [Recriando a Página Inicial do Instagram.pdf](https://github.com/dalondev/my_studies/files/9749583/Recriando.a.Pagina.Inicial.do.Instagram.pdf)
+- JavaScript
+  - [Dominando Funções em JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749584/Dominando.Funcoes.em.JavaScript.pdf)
+  - [Introdução ao JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749585/Introducao.ao.JavaScript.pdf)
+  - [JavaScript ES6 essencial.pdf](https://github.com/dalondev/my_studies/files/9749586/JavaScript.ES6.essencial.pdf)
+  - [Manipulando a D.O.M. com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749587/Manipulando.a.D.O.M.com.JavaScript.pdf)
+  - [Map, Filter e Reduce.pdf](https://github.com/dalondev/my_studies/files/9749588/Map.Filter.e.Reduce.pdf)
+  - [Mapas e Conjuntos com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749589/Mapas.e.Conjuntos.com.JavaScript.pdf)
+  - [Orientação a Objetos com JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749590/Orientacao.a.Objetos.com.JavaScript.pdf)
+  - [Primeiros passos para começar a programar.pdf](https://github.com/dalondev/my_studies/files/9749591/Primeiros.passos.para.comecar.a.programar.pdf)
+  - [Sintaxe e Operadores JavaScript.pdf](https://github.com/dalondev/my_studies/files/9749592/Sintaxe.e.Operadores.JavaScript.pdf)
+- Lógica
+  - [Aprenda o que são Estrutura de Dados e Algoritmos.pdf](https://github.com/dalondev/my_studies/files/9749594/Aprenda.o.que.sao.Estrutura.de.Dados.e.Algoritmos.pdf)
+  - [Lógica de Programação Essencial.pdf](https://github.com/dalondev/my_studies/files/9749596/Logica.de.Programacao.Essencial.pdf)
+  - [Pensamento Computacional.pdf](https://github.com/dalondev/my_studies/files/9749597/Pensamento.Computacional.pdf)
+- BOOTSTRAP
+  - [Construindo páginas para internet com Bootstrap.pdf](https://github.com/dalondev/my_studies/files/9749573/Construindo.paginas.para.internet.com.Bootstrap.pdf)
