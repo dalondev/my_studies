@@ -3,6 +3,5 @@ Since January 2022 I have taken several courses which are documented in this rep
 
 # Cursos da https://web.dio.me/users/dalonalmeida?tab=achievements
 
-![teste]
-(shorturl.at/fptER)    |
+![teste](shorturl.at/fptER)
 --------------------------------
