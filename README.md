@@ -3,5 +3,6 @@ Since January 2022 I have taken several courses which are documented in this rep
 
 # Cursos da https://web.dio.me/users/dalonalmeida?tab=achievements
 
-![Teste](https://raw.githubusercontent.com/dalondev/my_studies/main/dio/images/Aprenda%20o%20que%20s%C3%A3o%20Estrutura%20de%20Dados%20e%20Algoritmos.webp)
-<a>asfa</a>
+--------------------------------
+![Teste](shorturl.at/fptER)    |
+--------------------------------
