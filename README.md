@@ -25,3 +25,12 @@ Since January 2022 I have taken several courses which are documented in this rep
 ![Primeiros passos para desenvolvimento web](https://user-images.githubusercontent.com/115429868/194959591-cdb3b0ec-2c2b-41d0-b7e1-ae9e8ca2ca0a.png)
 ![Sintaxe e Operadores JavaScript](https://user-images.githubusercontent.com/115429868/194959789-1dd70f73-ae9a-4fe0-b3e2-890f0fba4e3b.png)
 ![Posicionando elementos com Flexbox em CSS (2)](https://user-images.githubusercontent.com/115429868/194960254-9e0be139-fbe9-441e-b96a-025332e70ad5.png)
+
+### [Udemy](https://www.udemy.com/user/dalon-2/) Certificates:
+
+![O curso completo de Banco de Dados e SQL, sem mistérios!](https://user-images.githubusercontent.com/115429868/195113617-9ad28edc-48bf-46f4-85ce-800caaebcd6d.jpg)
+![Orientação a Objetos com JavaScript (Projetos e TypeScript)](https://user-images.githubusercontent.com/115429868/195113621-2c8e6088-b16b-4b29-9fb4-9a3b2b67751f.jpg)
+![Dominando CSS 3 com SASS](https://user-images.githubusercontent.com/115429868/195113622-2a9da393-bef1-4dd8-9a80-4b4343a04866.jpg)
+![Curso de HTML 5 COMPLETO e com Projetos Práticos para WEB](https://user-images.githubusercontent.com/115429868/195113674-e02d93b1-795d-423b-99c3-243d57e0be47.jpg)
+![Curso Web Design Completo - HTML5, CSS3 e JS + 5 Projetos](https://user-images.githubusercontent.com/115429868/195113680-7f7de112-49e3-4445-9914-3b740a0926dd.jpg)
+![Creative CSS Drawing Course - Make Art With CSS](https://user-images.githubusercontent.com/115429868/195113684-0c1edc83-179b-4ab6-833a-7134a56695c2.jpg)
